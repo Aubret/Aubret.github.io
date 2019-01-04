@@ -11,8 +11,8 @@ Our goal is to use novel advances in deep reinforcement learning to improve mult
 
 ## Useful links
 
-
-* Configuring GPU : [configure gpu on linux](https://medium.com/@arun_37023/configuring-a-gpu-powered-machine-with-ubuntu-os-for-deep-learning-using-python-76a27ed6ed43?fbclid=IwAR37XhziJ7HYpGhld7U0Jg4KWGqTdQb7MvXuir8P-FikdiDIcJ-_JIwjygE)
+* Lot of courses and important papers on RL : [anwsome-rl](https://github.com/aikorea/awesome-rl)
+* Introduction to multi-agent reinforcement learning : [berkeley blog](https://bair.berkeley.edu/blog/2018/12/12/rllib/?fbclid=IwAR1iRPhm3MCKM8YR0_l3-mG4f2yX4RKoYwX7-FpA9y5wsOspw3DGVMoAbEQ)
 * Reinforcement learning explanation : [Outsider's tour](http://www.argmin.net/2018/06/25/outsider-rl/)
 * Recent list of classified deep reinforcement learning papers : [Papers list](https://github.com/junhyukoh/deep-reinforcement-learning-papers)
 * Summary of DRL models (not maintained) : [DRL models](https://github.com/5vision/deep-reinforcement-learning-networks)
