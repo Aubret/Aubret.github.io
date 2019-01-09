@@ -30,4 +30,9 @@ Co-director : MATIGNON Laetitia
 Director : HASSAS Salima  
 ### Contact
 
+LIRIS
+Building Nautibus
+Université Claude Bernard Lyon 1
+43 Boulevard du 11 Novembre 1918
+69622 Villeurbanne Cedex
 arthur.aubret@univ-lyon1.fr
