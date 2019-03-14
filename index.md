@@ -10,7 +10,7 @@ Our goal is to use novel advances in deep reinforcement learning to improve mult
 2. Agents learn to use this context in order to solve the task.
 
 ## Useful links
-
+* Introduction article to deep RL [An Introduction to Deep Reinforcement Learning](https://tianjun.me/static/essay_resources/Learn_You_Some_Reinforcement_Learning/papers/An_Introduction_to_Deep_Reinforcement_Learning.pdf)
 * Lot of courses and important papers on RL : [anwsome-rl](https://github.com/aikorea/awesome-rl)
 * Map of reinforcement learning : [Louis Kirsch blog](http://louiskirsch.com/maps/reinforcement-learning)
 * Introduction to multi-agent reinforcement learning : [berkeley blog](https://bair.berkeley.edu/blog/2018/12/12/rllib/)
@@ -30,9 +30,9 @@ Co-director : MATIGNON Laetitia
 Director : HASSAS Salima  
 ### Contact
 
-LIRIS
-Building Nautibus
-Université Claude Bernard Lyon 1
-43 Boulevard du 11 Novembre 1918
-69622 Villeurbanne Cedex
-arthur.aubret@univ-lyon1.fr
+LIRIS  
+Building Nautibus  
+Université Claude Bernard Lyon 1  
+43 Boulevard du 11 Novembre 1918  
+69622 Villeurbanne Cedex  
+arthur.aubret@univ-lyon1.fr  
