@@ -5,7 +5,7 @@ layout: default
 ## Introduction
 In reinforcement learning, an agent learns by trials and errors to maximize the expectation of rewards received while acting in his environment. In a multi-agent scenario, some tasks imply that multiple agents have to cooperate ; yet, despite novel advances in deep reinforcement learning, it is known to be difficult to synchronize the agents, particularly when the number of agents is high. Communication is an efficient way to synchronize agents, however actual models only includes observations into their communication and consider scenarios with few agents. To adress those issues, we want to take advantage of recent works on intrinsic motivation.
 
-At first, we want our agents to be able to communicate their intentions in addition to their observations, to do so, they have to learn a representation of their skills. As a second step, our goal is to provide an agent model which learn to choose  what to communicate, when and to whom communicate it.
+At first, we want our agents to be able to communicate their intentions in addition to their observations, to do so, they have to learn a representation of their skills. As a second step, our goal is that our agents learn to choose what to communicate, when and to whom communicate it.
 
 
 
