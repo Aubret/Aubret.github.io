@@ -1,13 +1,14 @@
 ---
-title: Deep reinforcement learning of interaction's contexts for multi-agents coordination.
+title: Deep reinforcement learning of skills for multi-agents coordination.
 layout: default
 ---
 ## Introduction
 
-Our goal is to use novel advances in deep reinforcement learning to improve multi-agents coordination for solving a task. More specifically, our approach is based on two steps:
+Reinforcement learning is about an agent who learns to solve a task by acting in his environment. The agent makes actions, receives an observation characterizing the state of the environment and earns a reward which depends of the task. His objective is to maximize the cumulative reward. In a multi-agent scenario, some tasks imply that multiple agents have to cooperate ; yet, despite novel advances in deep reinforcement learning, it is known to be difficult to synchronize the agents, particularly when the number of agents is high. Communication is an appealing and efficient way to synchronize agents, however actual models only includes observations into their communication and consider scenarios with few agents. To adress those issues, we take advantage of recent works on intrinsic motivation.
 
-1. Agents learn to recognize interaction's contexts, that is to perceive other agents and their specific nature (Agent can be heterogenous)
-2. Agents learn to use this context in order to solve the task.
+At first, we want our agents to be able to communicate their intentions in addition to their observations, to do so, they have to learn a representation of their skills. As a second step, our goal is to provide an agent model which learn to choose  what to send, when and to whom send it.
+
+
 
 ## Useful links
 * Introduction article to deep RL [An Introduction to Deep Reinforcement Learning](https://tianjun.me/static/essay_resources/Learn_You_Some_Reinforcement_Learning/papers/An_Introduction_to_Deep_Reinforcement_Learning.pdf)
