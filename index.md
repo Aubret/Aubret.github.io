@@ -7,6 +7,9 @@ In reinforcement learning, an agent learns by trials and errors to maximize the 
 
 At first, we want our agents to be able to communicate their intentions in addition to their observations, to do so, they have to learn a representation of their skills. As a second step, our goal is that our agents learn to choose what to communicate, when and to whom communicate it.
 
+### Current work
+
+In the first part of the thesis, we are interesting in using intrinsic motivation to learn skills that can be hierarchially used in an end-to-end way. Such learning method may: 1- be competitive with state-of-the-art DRL algorithms on single-task learning; 2- improve exploration; 3- make easier transfer learning.
 
 ### Papers
 
