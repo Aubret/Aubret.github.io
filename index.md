@@ -11,7 +11,10 @@ At first, we want our agents to be able to communicate their intentions in addit
 ### Papers
 
 Aubret, A., Matignon, L., Hassas, S.: ELSIM: End-to-end learning of reusable skills
-through intrinsic motivation. Accepted at ECML 2020
+through intrinsic motivation. ECML-PKDD 2020
+
+Aubret, A., Matignon, L., Hassas, S.: ELSIM: End-to-end learning of reusable skills
+through intrinsic motivation. ICML 2020 Workshop LifelongML
 
 Aubret, A., Matignon, L., Hassas, S.: A survey on intrinsic motivation in reinforcement learning. arXiv
 preprint arXiv:1908.06976 (2019)
