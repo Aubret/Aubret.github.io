@@ -3,11 +3,11 @@ title: Deep reinforcement learning of skills using intrinsic motivation
 layout: default
 ---
 ### Introduction
-In reinforcement learning, an agent learns by trials and errors to maximize the expectation of rewards received while acting in his environment. Despite the recent advances in deep reinforcement learning (DRL), there are several scientific barriers: when the rewards are sparce, the agent never finds the reward and has an erratic behavior; what it learnt while solving a task is almost useless for solving another task; when the sequence of actions that leads to the optimal reward is very long, it hardly adapts the first actions of the sequence (_credit assignment issue_).
+In reinforcement learning, an agent learns by trials and errors to maximize the expectation of rewards received while acting in his environment. Despite the recent advances in deep reinforcement learning (DRL), there are several scientific barriers: when the rewards are sparse, the agent never finds the reward and has an erratic behavior; what it learnt while solving a task is almost useless for solving another task; when the sequence of actions that leads to the optimal reward is very long, it hardly adapts the first actions of the sequence (_credit assignment issue_).
 
 ### Current works
 
-In the first part of the projet, we review how intrinsic motivation-based approaches currently tackle these issues an exhibit their limitations [1]. We then highlight the perspectives of the domain [1]. In the second part, we investigate how skill-based intrinsic motivations tackles these issues by introducing two models: ELSIM [4] and DisTop [5]. Both learn intrinsic skills that can be hierarchically used in an end-to-end way to explore and solve a task. In particular, skills are learnt with purely intrinsic rewards and extrinsic reward are only used to choose which skills to improve.
+In the first part of the projet, we review how intrinsic motivation-based approaches currently tackle these issues an exhibit their limitations [1]. We then highlight the perspectives of the domain [1]. In the second part, we investigate how skill-based intrinsic motivations can tackle these issues by introducing two models: ELSIM [4] and DisTop [5]. Both learn intrinsic skills that can be hierarchically used in an end-to-end way to explore and solve a task. In particular, skills are learnt with purely intrinsic rewards and extrinsic reward are only used to choose which skills to improve.
 
 Our main results are as follow:
 1. ELSIM [4] continually expands a tree of skills in the direction of the feedbacks of the environments. We show that skills learnt this way can both learn a task and be used later for another correlated task. 
