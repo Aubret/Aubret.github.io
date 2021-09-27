@@ -29,8 +29,9 @@ preprint arXiv:1908.06976 (2019)
 [1] Aubret, A., Matignon, L., Hassas, S.: Étude de la motivation intrinsèque en apprentissage par renforce-
 ment (JFPDA 2019).
 
+### Link thesis
 
-
+[Thesis](./these.pdf)
 
 ### Project participants
 
