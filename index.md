@@ -1,6 +1,16 @@
 
-I'm interesting in developing autonomous and embodied agents that can learn without supervision. In particular, this includes self-supervised representation learning, intrinsic motivation, hierarchical reinforcement learning and open-ended learning. I currently work as a postdoctoral researcher at the Frankfurt institute of advanced studies. Below is my list of papers:
+I'm interested in developing autonomous and embodied agents that can learn without supervision. This includes self-supervised representation learning, intrinsic motivation, hierarchical reinforcement learning and open-ended learning. I currently work as a postdoctoral researcher at the Frankfurt Institute for Advanced Studies (FIAS). Below is my list of papers:
 
+
+### Postdoc, Frankfurt Institute for Advanced Studies: Toddler-inspired object representation learning
+
+Aubret, A., Teulière, C., & Triesch, J. (2024). Self-supervised visual learning from interactions with objects. The European Conference on Computer Vision, 2024. [github](https://github.com/trieschlab/AASSL)
+
+Aubret, A.*, Schaumlöffel, T.*, Roig, G., & Triesch, J. (2024). Learning Object Semantic Similarity with Self-Supervision. In 2024 IEEE International Conference on Development and Learning. IEEE. [github to be coming](https://github.com/neuroai-arena/ObjectSemanticSimilarity)
+
+Ernst, M. R., López, F. M., Aubret, A., Fleming, R. W., & Triesch, J. (2024). Self-Supervised Learning of Color Constancy. In 2024 IEEE International Conference on Development and Learning. IEEE. [github](https://github.com/trieschlab/ColorConstancyLearning)
+
+Schaumlöffel, T.*, Aubret, A.*, Roig, G., & Triesch, J. (2023, November). Caregiver Talk Shapes Toddler Vision: A Computational Study of Dyadic Play. In 2023 IEEE International Conference on Development and Learning. IEEE. [github to be coming](https://github.com/neuroai-arena/ToddlerVisionLearning)
 
 ### Postdoc, Clermont Ferrand Pascal institute: Toddler-inspired object representation learning
 
