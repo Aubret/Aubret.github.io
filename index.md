@@ -1,6 +1,8 @@
-My objective is to understand the fundamental learning mechanisms that underpin the development of high-level visual representations and behaviors in humans and machines. My approach is to construct bio-inspired models based on powerful machine learning approaches; this includes self-supervised representation learning, intrinsic motivation, hierarchical reinforcement learning. I currently work as a postdoctoral researcher at the Frankfurt Institute for Advanced Studies (FIAS). Below is my list of papers:
+My objective is to understand the fundamental learning mechanisms that underpin the development of high-level visual representations and behaviors in humans and machines. My approach is to construct bio-inspired models based on powerful machine learning approaches; this includes self-supervised representation learning, intrinsic motivation, hierarchical reinforcement learning. I currently work as a postdoctoral researcher at the Frankfurt Institute for Advanced Studies (FIAS).
 
 Feel free to reach out if you wish to talk !
+
+ Below is my list of papers:
 
 ### Postdoc, Frankfurt Institute for Advanced Studies: Toddler-inspired object representation learning
 
