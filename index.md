@@ -12,21 +12,21 @@ Aubret, Arthur, Céline Teulière, and Jochen Triesch. Seeing the Whole in the P
 
 Zhengyang Yu, Aubret, Arthur, Marcel C Raabe, Jane Yang, Chen Yu, and Jochen Triesch. Active gaze behavior boosts self-supervised object learning. Under review. [paper](https://arxiv.org/pdf/2411.01969)
 
-Aubret, A.*, Schaumlöffel, T.*, Roig, G., & Triesch, J. (2025). Human Gaze Boosts Object-Centered Representation Learning. Under review. [paper](https://arxiv.org/pdf/2501.02966)
+Aubret, A.\*, Schaumlöffel, T.\*, Roig, G., & Triesch, J. (2025). Human Gaze Boosts Object-Centered Representation Learning. Under review. [paper](https://arxiv.org/pdf/2501.02966)
 
 Aubret, A., Teulière, C., & Triesch, J. (2024). Self-supervised visual learning from interactions with objects. The European Conference on Computer Vision, 2024. [github](https://github.com/trieschlab/AASSL), [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09526.pdf)
 
-Aubret, A.*, Schaumlöffel, T.*, Roig, G., & Triesch, J. (2024). Learning Object Semantic Similarity with Self-Supervision. In 2024 IEEE International Conference on Development and Learning. IEEE. [paper](https://arxiv.org/pdf/2405.05143)
+Aubret, A.\*, Schaumlöffel, T.\*, Roig, G., & Triesch, J. (2024). Learning Object Semantic Similarity with Self-Supervision. In 2024 IEEE International Conference on Development and Learning. IEEE. [paper](https://arxiv.org/pdf/2405.05143)
 <!-- [github to be coming] #(https://github.com/neuroai-arena/ObjectSemanticSimilarity) -->
 
 Ernst, M. R., López, F. M., Aubret, A., Fleming, R. W., & Triesch, J. (2024). Self-Supervised Learning of Color Constancy. In 2024 IEEE International Conference on Development and Learning. IEEE. [github](https://github.com/trieschlab/ColorConstancyLearning), [paper](https://arxiv.org/pdf/2404.08127)
 
-Schaumlöffel, T.*, Aubret, A.*, Roig, G., & Triesch, J. (2023, November). Caregiver Talk Shapes Toddler Vision: A Computational Study of Dyadic Play. In 2023 IEEE International Conference on Development and Learning. IEEE. [paper](https://arxiv.org/pdf/2312.04118)
+Schaumlöffel, T.\*, Aubret, A.\*, Roig, G., & Triesch, J. (2023, November). Caregiver Talk Shapes Toddler Vision: A Computational Study of Dyadic Play. In 2023 IEEE International Conference on Development and Learning. IEEE. [paper](https://arxiv.org/pdf/2312.04118)
 <!-- [github to be coming]#(https://github.com/neuroai-arena/ToddlerVisionLearning) -->
 
 ### Postdoc, Clermont Ferrand Pascal institute: Toddler-inspired object representation learning
 
-Aubret, A.*, Ernst, M. R.*, Teulière, C., & Triesch, J. Time to augment self-supervised visual representation learning. In The Eleventh International Conference on Learning Representations, 2023. [paper](https://openreview.net/forum?id=o8xdgmwCP8l)
+Aubret, A.\*, Ernst, M. R.\*, Teulière, C., & Triesch, J. Time to augment self-supervised visual representation learning. In The Eleventh International Conference on Learning Representations, 2023. [paper](https://openreview.net/forum?id=o8xdgmwCP8l)
 
 Arthur Aubret, Céline Teulière, and Jochen Triesch. Embodied vision for learning object representations. Joint IEEE International Conference on Development and Learning (ICDL), 2022. [paper](https://hal.science/hal-03838291v1/file/ICDL_2022.pdf)
 
