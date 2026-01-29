@@ -1,10 +1,16 @@
-My objective is to understand the fundamental learning mechanisms that underpin the development of high-level visual representations and behaviors in humans and machines. My approach is to construct bio-inspired models based on powerful machine learning approaches; this includes self-supervised representation learning, intrinsic motivation, hierarchical reinforcement learning. I currently work as a postdoctoral researcher at the Frankfurt Institute for Advanced Studies (FIAS).
+My objective is to understand the fundamental learning mechanisms that underpin the development of high-level visual representations and behaviors in humans and machines. My approach is to construct bio-inspired models based on powerful machine learning approaches; this includes self-supervised representation learning, intrinsic motivation, hierarchical reinforcement learning. I currently work as a postdoctoral researcher at Institut Pascal.
 
 Feel free to reach out if you wish to talk !
 
  Below is my list of papers:
 
+**News** :star: :star: :star: Happy to announce that our paper "Temporal Slowness in Central Vision drives Semantic Object Learning" has been accepted for publication at ICLR 2026 ! :star: :star: :star:
+
 ### Postdoc, Frankfurt Institute for Advanced Studies: Toddler-inspired object representation learning
+
+López, F. M., Lenz, M., Fedozzi, M. G., Aubret, A., & Triesch, J. (2025, September). MIMo grows! Simulating body and sensory development in a multimodal infant model. In 2025 IEEE International Conference on Development and Learning (ICDL) (pp. 1-6). IEEE. [paper](https://arxiv.org/pdf/2509.09805)
+
+Zhengyang Yu, Aubret, Arthur, Chen Yu, and Jochen Triesch.	Simulated Cortical Magnification Supports Self-Supervised Object Learning. In 2026 IEEE International Conference on Development and Learning. IEEE. [paper](https://arxiv.org/pdf/2509.15751)
 
 Aubret, Arthur and Jochen Triesch. Do vision models perceive objects like toddlers ? In ICLR Blogposts 2025. [temporary link](https://aubret.github.io/2025/blog/toddlers-vs-vismodels/)
 
@@ -16,8 +22,7 @@ Aubret, A.\*, Schaumlöffel, T.\*, Roig, G., & Triesch, J. (2025). Human Gaze Bo
 
 Aubret, A., Teulière, C., & Triesch, J. (2024). Self-supervised visual learning from interactions with objects. The European Conference on Computer Vision, 2024. [github](https://github.com/trieschlab/AASSL), [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09526.pdf)
 
-Aubret, A.\*, Schaumlöffel, T.\*, Roig, G., & Triesch, J. (2024). Learning Object Semantic Similarity with Self-Supervision. In 2024 IEEE International Conference on Development and Learning. IEEE. [paper](https://arxiv.org/pdf/2405.05143)
-<!-- [github to be coming] #(https://github.com/neuroai-arena/ObjectSemanticSimilarity) -->
+Aubret, A.\*, Schaumlöffel, T.\*, Roig, G., & Triesch, J. (2024). Learning Object Semantic Similarity with Self-Supervision. In 2024 IEEE International Conference on Development and Learning. IEEE. [paper](https://arxiv.org/pdf/2405.05143), [github](https://github.com/neuroai-arena/ObjectSemanticSimilarity)
 
 Ernst, M. R., López, F. M., Aubret, A., Fleming, R. W., & Triesch, J. (2024). Self-Supervised Learning of Color Constancy. In 2024 IEEE International Conference on Development and Learning. IEEE. [github](https://github.com/trieschlab/ColorConstancyLearning), [paper](https://arxiv.org/pdf/2404.08127)
 
