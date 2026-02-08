@@ -4,9 +4,13 @@ Feel free to reach out if you wish to talk !
 
  Below is my list of papers:
 
-**News** :star: :star: :star: Happy to announce that our paper "Temporal Slowness in Central Vision drives Semantic Object Learning" has been accepted for publication at ICLR 2026 ! :star: :star: :star:
+**January and februrary News** :star: :star: :star: Happy to announce that our paper "Temporal Slowness in Central Vision drives Semantic Object Learning" has been accepted for publication at ICLR 2026 ! Our paper "Seeing the Whole in the Parts in Self-Supervised Representation Learning" was also accepted for publication in Neurocomputing :star: :star: :star:
 
 ### Postdoc, Frankfurt Institute for Advanced Studies: Toddler-inspired object representation learning
+
+Aubret, Arthur, Céline Teulière, and Jochen Triesch (2026). Seeing the Whole in the Parts in Self-Supervised Representation Learning. Neurocomputing. [paper](https://pdf.sciencedirectassets.com/271597/AIP/1-s2.0-S092523122600370X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIDhj0t%2BchZXaCncGEHxKytmkW5tifOxiziaAK0bBm1qtAiEApWYczpUKMieUF4yA03hD1eOLTSwwxfV04M62piK8ZbcqswUIdhAFGgwwNTkwMDM1NDY4NjUiDFisMVI8z1LMLWvqgyqQBRZav0UWiKGFngQr%2F%2BWBIBXoVkZIoZ8D0EfPLK6waTThlv2919v95MO0xhfGdcih7aoEiqC81%2B7WaGbhEwm1T8TLrA9WwN6YIiQ12EJ1vK%2FgZfs%2FEnaW4JN1cXWsaQ7GHsz4nJXMSm%2BZ5O%2B01xauqxes7JQM37MCbGGSQGSoJwRkZc5gIGPybg3f6fwX77%2FCkokItWFESDmkgyfrMkdfmdVHHt879%2Fjv7NfN5ECGnn99Yoic56kr4AwWGkIeh9blvua2iMeIi7%2FyJw3kLf5oXe9sev%2BJKE2VfFb3E8KV%2FvlRfmqhmQwTrL68DDghVWHg6bpbTOLNML4IU9NIql%2BL9j4cvRiTBvn6cEsVtE3JqvAIcHW7GCa%2BhtPIyWMcBm8TuSsvEtO%2F6M2uo37tOTAaqV9HdSD%2Ft7%2FTPl0QDs9iW%2FY7woRXSh5QBPK5hTWaadaGMDKBI6r2P5LvgTLG%2B9vKy4Yv8ZoD9khtWlDU16WsecTpZP%2FN7FzKyUAqEQHgG9yiVkZbx3Jzen1MfMJaZDFVOrOH2UphV3MQeBmll1wgjoYtFdC6PO6r%2F1cjVZrPKpVFP5%2BcmLxFbfY4Z5sLcX0H6kmPRqoJtjPXUuj1cXwbJIQqLU6Lf5e2fCAFcfnJpBR%2Fk%2Bpv6oZdrzidblMyjS1J9yO3PeTYAfUwJzmyHUU%2FDEJQmrV5%2FLLT6QIzCcXtLrK%2F0rqOcNUFuMJYp5kzuifde0Ec2Ur1U8DkuWm3NLKO5ZLnOqkE77yh7lRlXkvM%2B3dEkIuVdV3Q2KBv8cqAyC%2ByWPL0cWth7YfWqonN1HEn63g3yWM3pD9LrUJb2iL2YOt360gYeg1gqeMhlFbSJhWeyoucyZBkI8BCMyxZx%2FXmWLAeMOuboswGOrEBvx%2F0FaJfg7EC7NbpLZK0UHOmW1S0IfwzVqev9qJ2M0ab6rvAxqDgT44nxUyBW%2BLIvhYmFFm8KtCEO6pjqcyEl4ZgQg0p50rva3Dilzk%2FrnKRzgu1qN2Dl0BDbN%2FtPHE0x2VCBpbjm495fpNV4lDaugcqqCz6IB%2F0ct4jqhpBm2SmohG4s5VYxAaGPW48WkcoPg3vq8O8Ye28Fp2Wp4uz5ee%2FW1ktEWmwHmQd2bzFARO1&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260208T150002Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3ZTCBLCJ%2F20260208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ece96b380d335cec457f716e5e4d12938f0a2595b4c538ec7b2a080381468a8f&hash=3b77cb5d86c540bbcb466eaa008b30d8015545a86f7c957f7e3b417cd51dc05a&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S092523122600370X&tid=spdf-4f37d755-0e0b-4e34-b88d-6f2a90d4c5ed&sid=4d4a27e7768fb34b207a5e931cb28159b67bgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=031d5a0d02060201&rr=9cabfe87aa63bb5a&cc=fr)
+
+Aubret, A.\*, Schaumlöffel, T.\*, Roig, G., & Triesch, J. (2026). Temporal Slowness in Central Vision drives Semantic Object Learning. In International Conference on Learning Representations, 2026. [paper](https://openreview.net/forum?id=tEezDE0vWt)
 
 López, F. M., Lenz, M., Fedozzi, M. G., Aubret, A., & Triesch, J. (2025, September). MIMo grows! Simulating body and sensory development in a multimodal infant model. In 2025 IEEE International Conference on Development and Learning (ICDL) (pp. 1-6). IEEE. [paper](https://arxiv.org/pdf/2509.09805)
 
@@ -14,11 +18,7 @@ Zhengyang Yu, Aubret, Arthur, Chen Yu, and Jochen Triesch.	Simulated Cortical Ma
 
 Aubret, Arthur and Jochen Triesch. Do vision models perceive objects like toddlers ? In ICLR Blogposts 2025. [temporary link](https://aubret.github.io/2025/blog/toddlers-vs-vismodels/)
 
-Aubret, Arthur, Céline Teulière, and Jochen Triesch. Seeing the Whole in the Parts in Self-Supervised Representation Learning. Under review. [paper](https://arxiv.org/pdf/2501.02860)
-
 Zhengyang Yu, Aubret, Arthur, Marcel C Raabe, Jane Yang, Chen Yu, and Jochen Triesch. Active gaze behavior boosts self-supervised object learning. Under review. [paper](https://arxiv.org/pdf/2411.01969)
-
-Aubret, A.\*, Schaumlöffel, T.\*, Roig, G., & Triesch, J. (2025). Human Gaze Boosts Object-Centered Representation Learning. Under review. [paper](https://arxiv.org/pdf/2501.02966)
 
 Aubret, A., Teulière, C., & Triesch, J. (2024). Self-supervised visual learning from interactions with objects. The European Conference on Computer Vision, 2024. [github](https://github.com/trieschlab/AASSL), [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09526.pdf)
 
