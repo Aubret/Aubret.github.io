@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
 subtitle: Assistant professor in bio-inspired machine learning.
 
@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>219</p>
-    <p>IRIT, Cours Rose Dieng-Kuntz, 31400 Toulouse</p>
+    <p>IRIT Office 219, Cours Rose Dieng-Kuntz, 31400 Toulouse</p>
     <p>Toulouse, France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,4 +27,4 @@ latest_posts:
 ---
 
 I am assistant professor at Institut de Recherche in Informatique de Toulouse (IRIT) and Université de Toulouse.
-My objective is to understand the fundamental learning principle that underpin the efficient development of high-level visual representations in biological and artificial. My approach is to construct learning models by bridging biological hypotheses of learning and machine learning self-supervised learning approaches.
+My objective is to understand the fundamental learning principles that underpin the efficient development of high-level visual representations in biological and artificial systems. My approach is to construct learning models by bridging hypotheses of child learning and self-supervised machine learning approaches.

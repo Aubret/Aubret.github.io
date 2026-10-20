@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Co-organizing a workshop on "Self-Supervised Visual Learning: Methods, Applications and Challenges" in Paris.
