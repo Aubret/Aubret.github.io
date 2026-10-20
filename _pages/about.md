@@ -28,3 +28,5 @@ latest_posts:
 
 I am assistant professor at Institut de Recherche in Informatique de Toulouse (IRIT) and Université de Toulouse.
 My objective is to understand the fundamental learning principles that underpin the efficient development of high-level visual representations in biological and artificial systems. My approach is to construct learning models by bridging hypotheses of child learning and self-supervised machine learning approaches.
+
+I did my Ph.D. at LIRIS (Lyon, Prof. Hassas's group), on intrinsically motivated deep reinforcement learning. Then I did two postdocs at Institut Pascal (Clermont-Ferrand, Dr. C. Teulière's group) and the Frankfurt Institute for Advanced Studies (Germany, Prof. J. Triesch's group). There, I explored how the bio-inspired principles of temporal consistency and sensorimotor learning can promote the development of powerful visual representations. 
